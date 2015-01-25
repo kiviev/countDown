@@ -5,7 +5,7 @@ Count Down Clock
 It is very simple to use.
 
 
-Preview [www.falbaponce.es/ejemplos/countDown/](http://www.falbaponde.es/ejemplos/countDown/)
+Preview [www.falbaponce.es/ejemplos/reloj/countDown/](http://www.falbaponde.es/ejemplos/reloj/countDown/)
 
 
 Just have to include jQuery in the head of the page and js.js file in the bottom of the page before </ body>.
