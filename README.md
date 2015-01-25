@@ -1,3 +1,6 @@
+Count Down Clock
+========================
+
 
 It is very simple to use.
 
@@ -9,9 +12,9 @@ Just have to include jQuery in the head of the page and js.js file in the bottom
 
 To call the script just need to call the function relojCuentaAtras (hour, day, month, year, 'jquery selector')
 
--Time, Day, month and year should be int, jquery selector must be string.
+- Time, Day, month and year should be int, jquery selector must be string.
 
--Time, Day, month and year are the parameters of the future date when the count down will reach 0.
+- Time, Day, month and year are the parameters of the future date when the count down will reach 0.
 
 
 The jquery selector is where we want to display the count down.
