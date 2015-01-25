@@ -1,9 +1,5 @@
 
 
-$(document).ready(function(){
-relojCuentaAtras(17,28,9,2015,'.contador');
-
-});// fin de ready
 
 
 function relojCuentaAtras(hora,dia,mes,anyo,lugar){
