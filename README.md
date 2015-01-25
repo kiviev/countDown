@@ -1,6 +1,10 @@
 
 It is very simple to use.
 
+
+Preview [www.falbaponce.es/ejemplos/countDown/](www.falbaponde.es/ejemplos/countDown/)
+
+
 Just have to include jQuery in the head of the page and js.js file in the bottom of the page before </ body>.
 
 To call the script just need to call the function relojCuentaAtras (hour, day, month, year, 'jquery selector')
