@@ -1,0 +1,43 @@
+
+@font-face {
+    font-family: 'destroyregular';
+    src: url('../fonts/destroy/DESTROY_-webfont.eot');
+    src: url('../fonts/destroy/DESTROY_-webfont.eot?#iefix') format('embedded-opentype'),
+       	url('../fonts/destroy/DESTROY_-webfont.woff') format('woff'),
+        url('../fonts/destroy/DESTROY_-webfont.ttf') format('truetype'),
+        url('../fonts/destroy/DESTROY_-webfont.svg#destroyregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.contenedor{
+	width: 100%;
+	height: 100%;
+	display: table;
+	color: #076bb6;
+}
+.contador{
+	font-size: 3em;
+	background: rgba(10,10,10,0.9);
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+	display: table-cell;
+	vertical-align: middle;
+	font-family: 'Indie Flower',cursive;
+}
+.contador p{
+	display: inline-block;
+	margin:0 0.2em;
+}
+.fontNum{
+
+	color: #ffd602;
+	font-size: 1.5em;
+	font-family: 'destroyregular', sans-serif;
+}
+@media(max-width: 480px){
+	body{
+		font-size: 9px;
+	}
+}
